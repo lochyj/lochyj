@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there 👋
+
+- If you need to reach me; contact me here: lochyjowett1@gmail.com
 
 <!--
 **lochyj/lochyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
