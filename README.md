@@ -4,7 +4,7 @@
 - If you need to reach me; contact me here: lochyjowett1@gmail.com
 - My website: Lachlanjowett.com
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=lochyj)]
+![My stats](https://github-readme-stats.vercel.app/api?username=lochyj&theme=dark)
 
 <!--
 **lochyj/lochyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
