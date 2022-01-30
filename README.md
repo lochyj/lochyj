@@ -2,7 +2,7 @@
 #### I make usless things
 
 - If you need to reach me; contact me here: lochyjowett1@gmail.com
-- My website: Lachlanjowett.com
+- My website: [Lachlanjowett.com](https://Lachlanjowett.com)
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=lochyj&theme=dark&hide_border=1)
 
