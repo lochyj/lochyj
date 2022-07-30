@@ -1,6 +1,6 @@
 # Hey there, I'm lachlan 👋.
 
-I enjoying making, creating, programming, designing and playing with everything tech and electronics
+*I enjoying making, creating, programming, designing and playing with everything tech and electronics*
 
 ## Links
 
