@@ -1,5 +1,7 @@
 # Hey there, I'm lachlan 👋.
 
+I enjoying making, creating, programming, designing and playing with everything tech and electronics
+
 ## Links
 
 - If you need to reach me; contact me at: contact@lachlanjowett.com
