@@ -1,6 +1,6 @@
 # ![](./Header.svg)
 
-## **I enjoying making, creating, programming, designing and playing with everything tech and electronics**
+## <p align=center>**I enjoying making, creating, programming, designing and playing with everything tech and electronics**</p>
 
 ## Links
 
@@ -8,3 +8,4 @@
 - Contact me at: contact@lachlanjowett.com
 
 ![](https://github-readme-stats.vercel.app/api?username=lochyj&theme=dark&hide_border=1)
+
