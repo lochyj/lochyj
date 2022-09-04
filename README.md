@@ -1,5 +1,4 @@
-#
-![](./Header.svg)
+# ![](./Header.svg)
 
 **I enjoying making, creating, programming, designing and playing with everything tech and electronics**
 
