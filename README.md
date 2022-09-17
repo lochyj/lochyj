@@ -4,8 +4,8 @@
 
 ## Links
 
-- My website: [Lachlanjowett.com](https://Lachlanjowett.com)
-- Contact me at: contact@lachlanjowett.com
+<p align=center>- My website: [Lachlanjowett.com](https://Lachlanjowett.com)</p>
+<p align=center>- Contact me at: contact@lachlanjowett.com</p>
 
-![](https://github-readme-stats.vercel.app/api?username=lochyj&theme=dark&hide_border=1)
+<p align=center>![](https://github-readme-stats.vercel.app/api?username=lochyj&theme=dark&hide_border=1)</p>
 
