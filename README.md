@@ -2,7 +2,7 @@
 
 ## <p align=center>**I enjoying making, creating, programming, designing and playing with everything tech and electronics**</p>
 
-## Links
+## <p align=center>Links</p>
 
 <p align=center>- My website: [Lachlanjowett.com](https://Lachlanjowett.com)</p>
 <p align=center>- Contact me at: contact@lachlanjowett.com</p>
