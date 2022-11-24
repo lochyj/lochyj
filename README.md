@@ -8,13 +8,17 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=Java)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Linux Distro](https://img.shields.io/badge/-Distro-black?style=flat-square&logo=arch-linux)
+![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
+![VSCodium](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode)
 
 ## Stats
 
