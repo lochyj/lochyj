@@ -1,4 +1,4 @@
-# ![](./Capture.PNG)
+# ![](./Header.png)
 
 **Hi, I'm Lachlan, or Lochyj. I'm a passionate developer that enjoys making, creating, programming, designing and playing with everything tech and electronics. I'm currently a student. I love low level and learning more about how operating systems / kernels work. Along side this, I want to learn more about compilers, interpreters, mobile app design, web development, styling, 3D modeling and electrical engineering!**
 
