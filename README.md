@@ -20,7 +20,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Arch](https://img.shields.io/badge/-Distro-black?style=flat-square&logo=arch-linux)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
-![VSCodium](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode)
+![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode)
 
 ## Stats
 
@@ -30,6 +30,5 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=lochyj.lochyj" alt="visitors"/>
 
-![](https://badges.pufler.dev/visits/lochyj/lochyj?color=black&logo=github&style=flat-square)
 ![](https://badges.pufler.dev/repos/lochyj?color=black&logo=github&style=flat-square)
 ![](https://badges.pufler.dev/commits/yearly/lochyj?color=black&logo=github&style=flat-square)
