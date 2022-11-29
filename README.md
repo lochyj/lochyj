@@ -28,6 +28,8 @@
 
 <img src="https://github-trophies.vercel.app/?username=lochyj&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B&row=2&column=9&theme=gruvbox">
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=lochyj.lochyj" alt="visitors"/>
+
 ![](https://badges.pufler.dev/visits/lochyj/lochyj?color=black&logo=github&style=flat-square)
 ![](https://badges.pufler.dev/repos/lochyj?color=black&logo=github&style=flat-square)
 ![](https://badges.pufler.dev/commits/yearly/lochyj?color=black&logo=github&style=flat-square)
