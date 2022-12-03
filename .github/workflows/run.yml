@@ -17,15 +17,7 @@ jobs:
           filename: metrics.plugin.overview.svg
           token: ${{ secrets.METRICS_TOKEN }}
           name: Detailed display
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_achievements: yes
           plugin_languages: yes
           plugin_languages_indepth: yes
           commits_authoring: lachlan jowett, lochyj, lachlan@jowett.net.au
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          plugin_achievements: yes
