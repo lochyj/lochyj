@@ -1,0 +1,7 @@
+name: Detailed display
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.languages.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  plugin_languages: yes
+    plugin_languages_indepth: yes
