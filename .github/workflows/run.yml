@@ -18,8 +18,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           name: Detailed display
           plugin_achievements: yes
-          #plugin_languages: yes
+          plugin_lines: yes
           plugin_languages_indepth: yes
+          plugin_languages: yes
           plugin_languages_ignored: TCL
           commits_authoring: lachlan jowett, lochyj, lachlan@jowett.net.au, lochyjowett1@gmail.com, 
-          plugin_lines: yes
