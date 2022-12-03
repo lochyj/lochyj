@@ -21,3 +21,9 @@ jobs:
           filename: metrics.plugin.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages_indepth: yes
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
