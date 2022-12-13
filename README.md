@@ -18,7 +18,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![Arch](https://img.shields.io/badge/-Distro-black?style=flat-square&logo=arch-linux)
+![Arch](https://img.shields.io/badge/-Arch%20btw-black?style=flat-square&logo=arch-linux)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode)
 
