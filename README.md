@@ -1,10 +1,14 @@
 # ![](./Header.png)
 
-Happy new year!
-
 **Hi, I'm Lachlan, or Lochyj. I'm a passionate developer that enjoys making, creating, programming, designing and playing with everything tech and electronics. I'm currently a student. I love low level programming, design and learning more about how operating systems and kernels work. Additionally, I want to learn more about compilers, interpreters, mobile app design, web development, styling, 3D modeling, game design and electrical engineering!**
 
 **Contact me at: lachlan@jowett.net.au**
+
+
+## Stats
+![Overview](./metrics.plugin.overview.svg)
+
+<img src="https://github-trophies.vercel.app/?username=lochyj&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B&row=2&column=9&theme=gruvbox">
 
 ## Badges
 
@@ -22,14 +26,3 @@ Happy new year!
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode)
-
-## Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lochyj&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lochyj&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lochyj&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lochyj&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lochyj&theme=github_dark&utcOffset=8)![Overview](./metrics.plugin.overview.svg)
-
-<img src="https://github-trophies.vercel.app/?username=lochyj&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B&row=2&column=9&theme=gruvbox">
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=lochyj.lochyj" alt="visitors"/>
-
-![](https://badges.pufler.dev/repos/lochyj?color=black&logo=github&style=flat-square)
-![](https://badges.pufler.dev/commits/yearly/lochyj?color=black&logo=github&style=flat-square)
