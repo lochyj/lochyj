@@ -1,6 +1,6 @@
 # ![](./Header.png)
 
-**Hi, I'm Lachlan, or Lochyj. I'm a passionate developer that enjoys making, creating, programming, designing and playing with everything tech and electronics. I'm currently a student. I love low level programming, design and learning more about how operating systems and kernels work. Additionally, I want to learn more about compilers, interpreters, mobile app design, web development, styling, 3D modeling, game design and electrical engineering!**
+**Hi, I'm Lachlan, or Lochyj. I'm a passionate developer that enjoys making, creating, programming, designing and playing with everything tech and electronics. I'm currently a student at John Monash Science School. I love low level programming, design and learning more about how operating systems and kernels work. Additionally, I am exploring compilers, interpreters, mobile app design, web development, 3D modeling, game design and cyber security!**
 
 **Contact me at: lachlan@jowett.net.au**
 
@@ -8,9 +8,9 @@
 ## Stats
 ![Overview](./metrics.plugin.overview.svg)
 
-<img src="https://github-trophies.vercel.app/?username=lochyj&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B&row=2&column=9&theme=gruvbox">
+<!-- <img src="https://github-trophies.vercel.app/?username=lochyj&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B&row=2&column=9&theme=gruvbox"> -->
 
-## Badges
+<!-- ## Badges
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -25,4 +25,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
-![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode)
+![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode) -->
