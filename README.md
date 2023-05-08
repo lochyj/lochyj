@@ -1,5 +1,3 @@
-# ![](./Header.png)
-
 **Hi, I'm Lachlan, or Lochyj. I'm a passionate developer that enjoys making, creating, programming, designing and playing with everything tech and electronics. I'm currently a student at John Monash Science School. I love low level programming, design and learning more about how operating systems and kernels work. Additionally, I am exploring compilers, interpreters, mobile app design, web development, 3D modeling, game design and cyber security!**
 
 **Contact me at: lachlan@jowett.net.au**
